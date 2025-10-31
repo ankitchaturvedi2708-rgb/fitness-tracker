@@ -1091,4 +1091,4 @@ export default function FitnessApp() {
             </div>
             {profile.isSmoker && (
               <p className="text-sm text-blue-100 mt-4">
-                ⚠️
+        
